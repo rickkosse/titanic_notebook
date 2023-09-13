@@ -4,4 +4,3 @@ scikit-learn
 wheel
 seaborn
 matplotlib
-scikit-learn
